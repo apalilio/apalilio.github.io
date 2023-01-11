@@ -1,2 +1,3 @@
-# apalilio.github.io
+# Angelica's Student Site
+
 This is my root repo
