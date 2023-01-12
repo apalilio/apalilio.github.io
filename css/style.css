@@ -1,7 +1,7 @@
 body {
     font-family:Arial, Helvetica, sans-serif;
     background: rgb(143, 135, 255);
-    margin: 0;
+    margin: 1;
     display: grid; 
     align-content: center;
     min-height: 100vh;
@@ -21,7 +21,7 @@ h2{
 p{
     color: white;
     max-width: 30em;
-    margin: 0 auto; 
+    margin:  auto; 
     text-align: center;
     
 
