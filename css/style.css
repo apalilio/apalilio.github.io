@@ -1,0 +1,36 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background: rgb(143, 135, 255);
+    margin: 0;
+    display: grid; 
+    align-content: center;
+    min-height: 100vh;
+}
+h1 {
+    font-size: 45px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+h2{
+    text-align: center;
+}
+
+p{
+    color: white;
+    max-width: 30em;
+    margin: auto; 
+
+   
+
+}
+
+ul{
+   display: table;
+    text-align: left;
+    margin: auto; 
+    padding: 0; 
+}
+a{
+    color: white;
+}
