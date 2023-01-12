@@ -10,6 +10,8 @@ h1 {
     font-size: 45px;
     text-align: center;
     text-transform: uppercase;
+    
+    
 
 }
 h2{
@@ -19,7 +21,9 @@ h2{
 p{
     color: white;
     max-width: 30em;
-    margin: auto; 
+    margin: 0 auto; 
+    text-align: center;
+    
 
    
 
